@@ -24,7 +24,7 @@ Le programme utilise un fichier `metro.txt` contenant les stations, les lignes d
 ## Structure du projet
 
 `metro-itineraire/
-├── main.c
+├── metro_itineraire.c
 ├── metro.txt
 └── README.md`
 
