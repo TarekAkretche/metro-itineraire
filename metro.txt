@@ -1,0 +1,25 @@
+# station1 ; station2 ; ligne ; temps
+Chatelet;Louvre;1;2
+Louvre;Palais-Royal;1;2
+Palais-Royal;Tuileries;1;2
+Tuileries;Concorde;1;3
+Concorde;Champs-Elysees;1;3
+Champs-Elysees;George V;1;2
+George V;Etoile;1;2
+
+Chatelet;Les Halles;4;2
+Les Halles;Etienne Marcel;4;2
+Etienne Marcel;Reaumur;4;2
+Reaumur;Strasbourg;4;3
+Strasbourg;Gare de l'Est;4;3
+Gare de l'Est;Gare du Nord;4;3
+
+Chatelet;Gare de Lyon;14;4
+Gare de Lyon;Bercy;14;2
+Bercy;Cour St-Emilion;14;3
+Cour St-Emilion;Bibliotheque;14;2
+
+Etoile;Kleber;6;2
+Kleber;Boissiere;6;2
+Boissiere;Trocadero;6;2
+Trocadero;Bir-Hakeim;6;3
