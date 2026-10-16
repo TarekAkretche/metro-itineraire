@@ -23,32 +23,33 @@ Le programme utilise un fichier `metro.txt` contenant les stations, les lignes d
 
 ## Structure du projet
 
-`metro-itineraire/
+`metro-itineraire/`
 
 ├── metro_itineraire.c
 
 ├── metro.txt
 
-└── README.md`
+└── README.md
 
 ## Compilation
 Compiler le programme avec GCC :
 
 
 bash
--gcc main.c -o metro
+-gcc metro_itineraire.c -o metro
 
 ## Exécution
 Sous Linux ou macOS :
 
 
 bash
+
 ./metro
 
 Sous Windows :
 
-
 bash
+
 metro.exe
 
 Le fichier metro.txt doit être présent dans le répertoire d'exécution du programme.
